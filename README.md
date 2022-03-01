@@ -6,6 +6,7 @@
 
 [useWeb3 is a learning platform for developers to explore and learn about Web3](https://www.useweb3.xyz/)
 
+[useWeb3 中文版本](https://useweb3.chejj.cc)
 
  
  
