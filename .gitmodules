@@ -5,5 +5,5 @@
 	path = web3Info
 	url = git@github.com:xusai2014/web3Info.git
 [submodule "chejj-contracts"]
-	path = web3Info
+	path = chejj-contracts
 	url = git@github.com:xusai2014/chejj-contracts.git
